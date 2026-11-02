@@ -86,4 +86,3 @@ These tests require an explicitly authorized non-production WHMCS installation:
 
 Until these tests pass on the exact release artifact, this report is not a
 production penetration-test attestation.
-

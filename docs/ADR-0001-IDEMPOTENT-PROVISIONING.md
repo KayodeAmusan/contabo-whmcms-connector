@@ -40,4 +40,3 @@ concurrent module workers from starting competing attempts.
   incident investigation; neither may be cleared merely to make a retry pass.
 - Staging must exercise the ambiguous-outcome and concurrent-invocation paths
   before production authorization.
-

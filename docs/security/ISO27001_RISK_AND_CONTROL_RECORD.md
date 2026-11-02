@@ -71,4 +71,3 @@ after a Contabo or WHMCS API/security contract change, after any security
 incident, and at least annually. Vulnerability and dependency checks run on
 every proposed source change; operational access and alerting evidence should
 be reviewed quarterly.
-
