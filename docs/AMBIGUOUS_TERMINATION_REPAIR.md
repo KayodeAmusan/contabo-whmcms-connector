@@ -18,4 +18,3 @@ because the earlier cancellation may already have reached Contabo.
 
 Do not modify the WHMCS database directly and do not cancel the provider
 resource manually without reconciling the WHMCS service and billing state.
-

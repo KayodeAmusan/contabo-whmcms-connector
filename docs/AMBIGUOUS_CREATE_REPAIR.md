@@ -37,4 +37,3 @@ If the WHMCS installation does not expose these properties for controlled
 administrative editing, stop. Do not update the database directly; use a
 reviewed one-time repair command built against that installation's supported
 WHMCS API.
-
