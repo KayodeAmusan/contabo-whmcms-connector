@@ -14,7 +14,7 @@ it is not an official Contabo or WHMCS product.
 ## Supported platform
 
 - WHMCS 9.1 on its supported Linux/LAMP deployment model
-- PHP 8.2, 8.3, or 8.4 with cURL and JSON
+- PHP 8.2 or newer with cURL and JSON (CI-verified on PHP 8.2, 8.3, and 8.4)
 - Contabo Compute Management API v1
 - MySQL/MariaDB with support for `GET_LOCK`
 

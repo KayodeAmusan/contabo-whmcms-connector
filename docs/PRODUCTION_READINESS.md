@@ -6,7 +6,7 @@ account. Production authorization requires the staging evidence below.
 
 ## Required staging evidence
 
-Run on a non-production WHMCS 9.1 installation using PHP 8.2, 8.3, or 8.4 and a
+Run on a non-production WHMCS 9.1 installation using PHP 8.2 or newer and a
 dedicated least-privilege Contabo API user.
 
 1. Install the exact CI archive and verify its SHA-256 digest.
