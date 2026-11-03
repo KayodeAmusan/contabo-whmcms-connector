@@ -2,7 +2,8 @@
 
 ## Supported runtime
 
-This module targets supported WHMCS releases on PHP 8.2, 8.3, or 8.4. Do not
+This module targets supported WHMCS releases on PHP 8.2 or newer. CI currently
+verifies PHP 8.2, 8.3, and 8.4. Do not
 deploy it on an end-of-life WHMCS or PHP release.
 
 ## Reporting a vulnerability
